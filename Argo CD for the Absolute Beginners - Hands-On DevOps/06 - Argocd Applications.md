@@ -1,6 +1,6 @@
 
 
-![Section Overview](6_01_SectionOverview.png)
+![Section Overview](06_01_SectionOverview.png)
 
 An application in Argo CD is a custom resource that represents a deployed instance of a Kubernetes resource in a cluster.
 
