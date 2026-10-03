@@ -1,2 +1,4 @@
 
 https://subscription.packtpub.com/video/cloud-networking/9781806025510
+
+Github of the course: https://github.com/PacktPublishing/Argo-CD-for-the-Absolute-Beginners---Hands-On-DevOps
